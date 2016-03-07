@@ -1,5 +1,5 @@
 # TriageAid
-The form-filler for visualstudio.com common Triage fields
+A form-filler for visualstudio.com common Triage fields
 
 ## Installation Notes
 Long-term this will be an Edge Extension. For now:
